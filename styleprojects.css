@@ -1,0 +1,36 @@
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+#logo-container {
+    position:absolute; left:100px; top:35px;
+}
+#nav-items {
+    display: flex;
+    position:absolute; right:20px; top: 60px;
+    width: 450px;
+    align-items: right;
+    justify-content: space-around;
+    list-style: none;
+}
+#introtoprojects {
+    font-size: 35px;
+    font: bold;
+}
+#projects {
+    list-style: none;
+}
+#projects .aca {
+    font-size: 30px;
+    color: black;
+}
+#projects .Stamatics{
+    font-size: 30px;
+    color: black;
+}
+#projects .FAC {
+    font-size: 30px;
+    color: black;
+}

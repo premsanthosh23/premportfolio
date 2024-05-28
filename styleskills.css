@@ -1,0 +1,27 @@
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+#nav-items {
+    display: flex;
+    position:absolute; right:20px; top: 60px;
+    width: 450px;
+    align-items: right;
+    justify-content: space-around;
+    list-style: none;
+}
+#logo-container {
+    position:absolute; left:100px; top:35px;
+}
+#skills {
+    list-style: none;
+    font-size: 20px;
+    position: absolute; top:165px;
+}
+#heading {
+    font:bold;
+    font-size: 30px;
+    position: absolute; left: 47px;
+}

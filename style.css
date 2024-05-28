@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 'Edu', 'sans-serif';
+    box-sizing: border-box;
+}
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+#logo-container {
+    position:absolute; left:100px; top:35px;
+}
+#page-owner{
+    position: absolute; right: 78px; top: 230px;
+}
+#nav-items {
+    display: flex;
+    position:absolute; right:20px; top: 60px;
+    width: 450px;
+    align-items: right;
+    justify-content: space-around;
+    list-style: none;
+}
+#main-header .left .big-text p {
+    position: absolute; left: 60px; top: 60px;
+    font-size: 80px;
+}
+#main-header .left .line-one p{
+    font-size: 20px;
+}
+#main-header .left .line-two p{
+    font-size: 20px;
+}
+#main-header .left .line-three p{
+    font-size: 20px;
+}
+#main-header .left .line-four p{
+    font-size: 20px;
+}
+#main-header .left .line-five p{
+    font-size: 20px;
+}
+#main-header .left .line-six p{
+    font-size: 20px;
+}
+#main-header .left .end-line p{
+    font-size: 40px;
+}
+

@@ -1,0 +1,18 @@
+#logo-container {
+    position:absolute; left:100px; top:35px;
+}
+#heading{
+    position: absolute; left:100px; top:150px;
+    font-size:30px;
+}
+#image{
+    position: absolute; left:300px; top:250px;
+}
+#discription h{
+    position: absolute; left:100px; top:730px;
+    font-size: 25px;
+}
+#discription p{
+    position: absolute; left:100px; top:745px;
+    font-size: 20px;
+}
